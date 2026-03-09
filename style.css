@@ -20,7 +20,6 @@ header {
   color: #1e0033;
   background-color: #FFA500;
   letter-spacing: 0.5px; 
-  padding: 8px;
   top: 0;
   position: fixed;
   display: inline;
@@ -42,7 +41,7 @@ H1 {
   font-style: bold;
   text-transform: uppercase;
   letter-spacing: .5rem;
-  margin: 0 0 6 0;
+  margin: 6px;
 }
 
 .hero {
