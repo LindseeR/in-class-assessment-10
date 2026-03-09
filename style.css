@@ -42,11 +42,11 @@ H1 {
   font-style: bold;
   text-transform: uppercase;
   letter-spacing: .5rem;
-  margin: 12px 6px 6px 6px;
+  margin: 12px;
 }
 
 .hero {
-  border-radius: 25px;
+  border-radius: 30px;
   width: 500px;
   height: auto;
   padding: 25px;
