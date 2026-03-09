@@ -76,6 +76,7 @@ H1 {
 .story {
   width: 500px;
   height: auto;
+  margin: 25px;
 }
 
 p {
