@@ -41,12 +41,12 @@ nav a {
 
 main {
   position: relative;
-  margin: 10px;
+  margin: 25px 20px;
 }
 
 H1 {
   font-size: 2rem;
-  font-style: bold;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: .5rem;
   margin-top: 10px;
