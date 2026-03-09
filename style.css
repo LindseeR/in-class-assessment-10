@@ -87,7 +87,11 @@ p {
 em, strong {	
   color: #DAA520
 }
-  
+
+a:hover {
+  color: 	#BC8F8F;
+  text-decoration: none; 
+}
 
 
   
