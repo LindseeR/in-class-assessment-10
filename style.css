@@ -61,9 +61,14 @@ H1 {
 }
 
 .container {
-  float: right;
   position: sticky;
-  top: 0;
+  top: 200px;
+}
+
+.moon {
+  float: right;
+  height: 200px
+  width: auto
 }
 
 .story {
