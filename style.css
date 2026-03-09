@@ -48,10 +48,18 @@ H1 {
   border-radius: 25px;
   width: 500px;
   height: auto;
-  padding: 20px;
+  padding: 25px;
+}
+
+.container {
+  float: right;
+  position: sticky;
+  top: 0;
 }
 
 .story {
+  width: 500px;
+  height: auto;
   padding: 10px 0;
   text-align: justify; 
 }
