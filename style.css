@@ -16,7 +16,7 @@ header {
   width: 100vw;
   font-size: 12px;
   text-transform: uppercase;
-  float: right;
+  float: left;
   position: fixed;
   color: #1e0033;
   background-color: #FFA500;
@@ -49,7 +49,8 @@ H1 {
   font-style: bold;
   text-transform: uppercase;
   letter-spacing: .5rem;
-  margin: 12px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .hero {
