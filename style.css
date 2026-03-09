@@ -16,7 +16,7 @@ header {
   width: 100vw;
   font-size: 12px;
   text-transform: uppercase;
-  float: left;
+  float: right;
   position: fixed;
   color: #1e0033;
   background-color: #FFA500;
@@ -41,7 +41,7 @@ nav a {
 
 main {
   position: relative;
-  margin: 40px 20px;
+  margin: 60px 20px;
 }
 
 H1 {
