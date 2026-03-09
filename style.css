@@ -44,5 +44,13 @@ H1 {
   margin: 0 0 6 0;
 }
 
+.hero {
+  width: 500px;
+  height: auto;
+  overflow: hidden;
+}
+
+.story {
+  
 
   
