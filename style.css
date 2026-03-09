@@ -45,12 +45,10 @@ H1 {
 }
 
 .hero {
+  border-radius: 25px;
   width: 500px;
   height: auto;
-  border-radius: 25px;
   padding: 20px;
-  width: 6000px;
-  height: 500px;
 }
 
 .story {
