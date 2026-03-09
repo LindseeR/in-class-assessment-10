@@ -1,5 +1,36 @@
 *{
-  margin: 0;
-  padding: 0;
+  /*margin: 0;
+  padding: 0;*/
   box-sizing: border-box;
+}
+
+html {
+  background-color: #1e0033;
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1rem;
+}
+
+header {
+  width: auto;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: right;
+  color: #1e0033;
+  background-color: #FFA500;
+  letter-spacing: 0.5px; 
+  padding: 8px;
+  position: fixed;
+  display: inline;
+  z-index: 10;
+}
+
+.site {
+  font-style: bold;
+  float: left;
+}
+
+main {
+  position: relative;
+  margin: 10px;
 }
