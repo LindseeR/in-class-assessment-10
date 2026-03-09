@@ -88,6 +88,10 @@ em, strong {
   color: #DAA520
 }
 
+a {
+  color: 	#FF00FF
+}
+
 a:hover {
   color: 	#BC8F8F;
   text-decoration: none; 
